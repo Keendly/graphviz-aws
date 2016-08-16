@@ -68,4 +68,4 @@ do
     let TOTAL+=1
 done
 
-echo "Images convereted: $TOTAL"
+echo "Images converted: $TOTAL"
